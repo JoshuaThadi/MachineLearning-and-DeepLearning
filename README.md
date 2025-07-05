@@ -99,12 +99,6 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 
 <br>
 
-<a href="https://www.deepai.org/machine-learning-glossary-and-terms/deep-learning" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Deep_Learning_Intro-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Deep Learning Introduction"></a>
-
-<a href="https://cs231n.github.io/neural-networks-1/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Neural_Networks-F9A825?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks Fundamentals"></a>
-
 <a href="https://cs231n.github.io/optimization-1/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Training_Networks-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Training Neural Networks"></a>
 
@@ -117,6 +111,19 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 <a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Transformers-F9A825?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformer Models & Attention"></a>
 
+
+<a href="https://www.tensorflow.org/tutorials/keras/keras_tuner" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Hyperparameter Tuning"</a>
+
+  <a href="https://www.tensorflow.org/tfx/serving" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Deep_Learning_Deployment-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Deployment"></a>
+
+<a href="https://www.deepai.org/machine-learning-glossary-and-terms/deep-learning" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Deep_Learning_Intro-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Deep Learning Introduction"></a>
+
+<a href="https://cs231n.github.io/neural-networks-1/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Neural_Networks-F9A825?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks Fundamentals"></a>
+
 <a href="https://www.ibm.com/blog/autoencoders-and-gan/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Generative_Models-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Generative Models"></a>
 
@@ -126,11 +133,6 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 <a href="https://towardsdatascience.com/dropout-batch-normalization-and-other-regularization-methods-938b5e8b34d9" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Regularization-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Regularization & Optimization"></a>
 
-<a href="https://www.tensorflow.org/tutorials/keras/keras_tuner" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Hyperparameter Tuning"</a>
-
-  <a href="https://www.tensorflow.org/tfx/serving" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Deep_Learning_Deployment-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Deployment"></a>
 
 
 
