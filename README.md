@@ -1,5 +1,51 @@
 <img width="100%" src="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/assests/compressed.png" >
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=i_LwzRVP7bg" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Machine_Learning_Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Machine Learning Course"></a>
+
+<a href="https://www.youtube.com/watch?v=VyWAvY2CF9c" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Deep_Learning_Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Deep Learning Course"></a>
+
+<!-- Coursera -->
+<a href="https://www.coursera.org/courses?query=machine%20learning" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera ML/DL"></a>
+
+<!-- edX -->
+<a href="https://www.edx.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/edX-2A2B8D?style=for-the-badge&logo=edx&logoColor=white" alt="edX ML/DL"></a>
+
+<!-- Udacity -->
+<a href="https://www.udacity.com/school-of-ai" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity ML/DL"></a>
+
+<!-- Udemy -->
+<a href="https://www.udemy.com/topic/machine-learning/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy ML/DL"></a>
+
+<!-- Kaggle -->
+<a href="https://www.kaggle.com/learn/overview" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Learn"></a>
+
+<!-- Google AI -->
+<a href="https://ai.google/education/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_AI-E37400?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Education"></a>
+
+<!-- DeepLearning.AI -->
+<a href="https://www.deeplearning.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-17252A?style=for-the-badge&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI"></a>
+
+<!-- Fast.ai -->
+<a href="https://course.fast.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Fast.ai-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai Course"></a>
+
+<!-- MIT OCW -->
+<a href="https://ocw.mit.edu/search/?q=machine+learning" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MIT_OCW-A31F34?style=for-the-badge&logo=mit&logoColor=white" alt="MIT OpenCourseWare ML/DL"></a>
+
+
+</div>
+
 <h3>☆ Machine Learning</h3>
 
 Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed. Instead of following fixed rules, ML systems identify patterns in data and use these patterns to make predictions, classify information, or make decisions.
