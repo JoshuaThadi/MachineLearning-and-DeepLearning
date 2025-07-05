@@ -221,7 +221,12 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 <a href="https://wandb.ai/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"></a>
 
+---
 
+
+<div align="center">
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+</div>
 
 
 
