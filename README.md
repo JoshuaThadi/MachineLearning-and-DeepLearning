@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/assests/compressed.png" >
 
-<h2>☆ Machine Learning</h2>
+<h3>☆ Machine Learning</h3>
 
 Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed. Instead of following fixed rules, ML systems identify patterns in data and use these patterns to make predictions, classify information, or make decisions.
 
@@ -74,7 +74,7 @@ Machine Learning (ML) is a branch of artificial intelligence that enables comput
 
 ---
 
-<h2>✯ Deep Learning</h2>
+<h3>✯ Deep Learning</h3>
 
 Deep Learning is a specialized area of machine learning that uses algorithms called artificial neural networks to model and solve complex problems. Inspired by the human brain’s structure, deep learning networks have many layers (“deep” networks) that can automatically learn features and patterns from large amounts of data.
 
@@ -134,8 +134,92 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
   <img src="https://img.shields.io/badge/Regularization-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Regularization & Optimization"></a>
 
 
+---
 
+<h3>✪ Technologies Used</h3>
 
+<b>1] Python</b> – Primary language for ML/DL due to its simplicity and vast ecosystem of libraries. <br>
+<b>2] NumPy</b> – Fundamental package for numerical computing with support for large multidimensional arrays and matrices. <br>
+<b>3] Pandas</b> – Data manipulation and analysis library offering powerful data structures like DataFrames. <br>
+<b>4] Matplotlib</b> – Visualization library used for plotting data and creating graphs and charts. <br>
+<b>5] Scikit-learn</b> – ML library offering tools for classification, regression, clustering, and model selection. <br>
+<b>6] TensorFlow</b> – Open-source deep learning framework developed by Google for building and deploying ML models. <br>
+<b>7] Keras</b> – High-level API running on top of TensorFlow, designed for fast experimentation and prototyping. <br>
+<b>8] PyTorch</b> – Flexible and popular deep learning framework developed by Facebook for research and production. <br>
+<b>9] OpenCV</b> – Computer vision library for image and video analysis tasks such as object detection and recognition. <br>
+<b>10] Jupyter Notebook</b> – Interactive environment for writing and running code, visualizations, and notes in one place. <br>
+<b>11] Google Colab</b> – Free cloud-based Jupyter notebook environment with GPU support, ideal for ML/DL experiments. <br>
+<b>12] Hugging Face</b> – Platform and library for state-of-the-art transformer models for NLP, vision, and more. <br>
+<b>13] MLflow</b> – Open-source platform for managing the ML lifecycle including experimentation, reproducibility, and deployment. <br>
+<b>14] Docker</b> – Containerization tool that packages ML/DL applications and dependencies for portability and scalability. <br>
+<b>15] ONNX</b> – Open format to represent deep learning models, enabling cross-framework compatibility. <br>
+<b>16] Weights & Biases (W&B)</b> – Tool for tracking experiments, visualizing metrics, and collaborating on ML/DL projects. <br>
+
+<br>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
+
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"></a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+
+<!-- MLflow -->
+<a href="https://mlflow.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"></a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+
+<!-- ONNX -->
+<a href="https://onnx.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"></a>
+
+<!-- Weights & Biases -->
+<a href="https://wandb.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"></a>
 
 
 
