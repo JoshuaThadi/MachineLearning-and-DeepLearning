@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/assests/Untitled%20design.png" >
+<img width="100%" src="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/assests/compressed.png" >
 
 <h2>☆ Machine Learning</h2>
 
