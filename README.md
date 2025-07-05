@@ -30,11 +30,18 @@ Machine Learning (ML) is a branch of artificial intelligence that enables comput
 <a href="https://www.khanacademy.org/math/linear-algebra" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Maths_for_ML-F9A825?style=for-the-badge&logo=python&logoColor=white" alt="Maths for ML"></a>
 
-<a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Fundamental_Algorithms-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Fundamental Algorithms"></a>
+<a href="https://spinningup.openai.com/en/latest/spinningup/rl_intro.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-F9A825?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
+
+<a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/NLP-F9A825?style=for-the-badge&logo=nltk&logoColor=white" alt="Natural Language Processing"></a>
 
 <a href="https://scikit-learn.org/stable/modules/clustering.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Clustering_&_Dimensionality-F9A825?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Clustering & Dimensionality Reduction"></a>
+
+  
+<a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Fundamental_Algorithms-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Fundamental Algorithms"></a>
 
 <a href="https://scikit-learn.org/stable/data_transforms.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Data_Preprocessing-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Data Preprocessing & Feature Engineering"></a>
@@ -44,11 +51,6 @@ Machine Learning (ML) is a branch of artificial intelligence that enables comput
 
 <a href="https://scikit-learn.org/stable/modules/grid_search.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Hyperparameter Tuning"></a>
-<a href="https://spinningup.openai.com/en/latest/spinningup/rl_intro.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-F9A825?style=for-the-badge&logo=openai&logoColor=white" alt="Reinforcement Learning"></a>
-
-<a href="https://www.nltk.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/NLP-F9A825?style=for-the-badge&logo=nltk&logoColor=white" alt="Natural Language Processing"></a>
   
 <a href="https://mlflow.org/docs/latest/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Model_Deployment-FF6F00?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment & MLOps"></a>
