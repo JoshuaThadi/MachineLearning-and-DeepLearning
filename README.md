@@ -283,6 +283,10 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 
 ### ✸ Advanced Projects in Machine Learning (ML)
 
+<a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/ML-DL-projects.md" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-Projects-555555?style=for-the-badge&logo=github&logoColor=white" alt="ML & DL Projects"></a>
+
+
 #### 1] AutoML Platform  
 **What:** Build an AutoML system that automates model selection, feature engineering, and hyperparameter tuning.  
 **Why:** AutoML is revolutionizing enterprise AI by accelerating the model development lifecycle.  
