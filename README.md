@@ -281,7 +281,7 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 
 ---
 
-### 🧠 Advanced Projects in Machine Learning (ML)
+### ✸ Advanced Projects in Machine Learning (ML)
 
 #### 1] AutoML Platform  
 **What:** Build an AutoML system that automates model selection, feature engineering, and hyperparameter tuning.  
@@ -355,7 +355,7 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
 
 ---
 
-### 🧠 Advanced Projects in Deep Learning (DL)
+### ✷ Advanced Projects in Deep Learning (DL)
 
 #### 1] Multimodal Emotion Recognition  
 **What:** Detect emotions using inputs from face, voice, and text.  
@@ -444,7 +444,7 @@ Deep Learning is a specialized area of machine learning that uses algorithms cal
   </p>
 </div>
 
-### 🧭 Bonus: Cross-Domain Future Projects
+### ✹  Bonus: Cross-Domain Future Projects
 
 #### 1] AI in Climate Modeling & Disaster Prediction  
 **What:** Predict floods, wildfires, and climate risks using remote sensing data.  
