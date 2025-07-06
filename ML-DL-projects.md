@@ -108,20 +108,6 @@ A curated list of **future-focused projects** in the domains of **Gaming**, **Ma
 **Scope:** Equities, crypto, forex  
 **Tech:** `Backtrader`, `PyAlgoTrade`, `RL`, `Binance API`
 
----
-
-## 🧠 Bonus Ideas
-
-### 🌎 AI for Climate Modeling & Disaster Prediction
-Predict floods, wildfires, or climate patterns using satellite + sensor data.  
-**Tech:** `CNN`, `Spatio-temporal Modeling`, `Remote Sensing Data`
-
----
-
-### ♿ AI for Accessibility
-Real-time sign language recognition or text-to-speech for inclusive interfaces.  
-**Scope:** Empowering differently-abled users with smart interfaces.  
-**Tech:** `Pose Estimation`, `CNN`, `LSTM`, `OpenPose`
 
 ---
 
