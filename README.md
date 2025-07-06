@@ -48,7 +48,13 @@
 
 <h3>☆ Machine Learning</h3>
 
-Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed. Instead of following fixed rules, ML systems identify patterns in data and use these patterns to make predictions, classify information, or make decisions.
+Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed. Instead of following fixed rules, ML systems identify patterns in data and use these patterns to make predictions, classify information, or make decisions
+<br>
+<!-- ML Roadmap -->
+<a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/ML-roadmap.md" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Machine_Learning-Roadmap-555555?style=for-the-badge&logo=github&logoColor=white" alt="ML Roadmap">
+</a>
+
 
 <div>
   <p>
@@ -123,6 +129,12 @@ Machine Learning (ML) is a branch of artificial intelligence that enables comput
 <h3>✯ Deep Learning</h3>
 
 Deep Learning is a specialized area of machine learning that uses algorithms called artificial neural networks to model and solve complex problems. Inspired by the human brain’s structure, deep learning networks have many layers (“deep” networks) that can automatically learn features and patterns from large amounts of data.
+<br>
+<!-- DL Roadmap -->
+<a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning/blob/main/DL-roadmap.md" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Deep_Learning-Roadmap-555555?style=for-the-badge&logo=github&logoColor=white" alt="DL Roadmap">
+</a>
+
 
 <div>
   <p>
